@@ -1,4 +1,14 @@
 baseURL = "https://blog.lukas-ross.de/"
-languageCode = "de-de"
+languageCode = "de-DE"
+locale = "de"
 title = "Lukas' Tech Blog"
-theme = "dein-gewähltes-theme"
+theme = "papermod"
+
+[params]
+  env = "production"
+  title = "Lukas' Tech Blog"
+  description = "Mein persönlicher Blog"
+  author = "Lukas"
+  showReadingTime = true
+  showShareButtons = false
+  showPostNavLinks = true
