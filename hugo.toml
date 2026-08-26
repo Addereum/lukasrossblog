@@ -1,0 +1,4 @@
+baseURL = "https://blog.lukas-ross.de/"
+languageCode = "de-de"
+title = "Lukas' Tech Blog"
+theme = "dein-gewähltes-theme"
