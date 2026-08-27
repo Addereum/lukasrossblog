@@ -16,4 +16,4 @@ Auf diesem Blog werde ich ab sofort regelmäßig Einblicke in meine aktuellen Pr
 
 Der Weg zum fertigen Setup war technisch durchaus lehrreich – von der Anbindung des CMS über Netlify bis hin zur sauberen Authentifizierung. Umso besser, dass jetzt alles reibungslos funktioniert und neue Artikel direkt unkompliziert per Markdown eingepflegt werden können.
 
-Bleibt dran, es gib
+Bleibt dran, es gibt bald mehr technischen Content und tiefere Einblicke. Bis zum nächsten Beitrag!
