@@ -2,6 +2,7 @@ backend:
   name: github
   repo: Addereum/lukasrossblog # Hier dein GitHub Repo einragen
   branch: main
+  site_url: https://blog.lukas-ross.de
   base_url: https://api.netlify.com # Das sorgt dafür, dass Netlify den Login für GitHub abwickelt
   auth_type: implicit
 
